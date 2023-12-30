@@ -1,6 +1,6 @@
 # highway_train
 Used for highway environment testing
-First I recommend creating a python virtual environment:
+First create a python virtual environment:
 
 python -m venv venv
 source venv/bin/activate
